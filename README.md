@@ -9,3 +9,8 @@ This repo contains two branches, which implements the `SBP`(Iterative Scaling wi
 
 ![Population Estimation through Wifi](assets/wifi.png)
 *Population movement Estimation through Sparse Sensor*
+
+# TODO
+- [ ] Add paper link
+- [ ] Open source cbp package
+- [ ] Add plot scritpt
