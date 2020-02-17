@@ -1,9 +1,7 @@
 # Aggregate-Inference-MOT
 Inference with Aggregate Data: An Optimal Transport Approach
 
-# Code coming soon
-
-# How to reproduce experiments
+# How to reproduce experiments of SBP
 ```shell
 bash run_cgm.sh
 ```
